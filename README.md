@@ -4,19 +4,9 @@
   <strong>Explore the World of Art!</strong>
 </p>
 
-
 ## 🎬 Project Demo
 
-<p align="center">
-  <iframe
-    src="https://drive.google.com/file/d/1DOPC2CZ8fXLMGtty6kphLVrqMg4b68I6/preview"
-    width="100%"
-    height="480"
-    allow="autoplay"
-    allowfullscreen>
-  </iframe>
-</p>
-
+[▶ Watch ArtSpace Demo Video](https://drive.google.com/file/d/1DOPC2CZ8fXLMGtty6kphLVrqMg4b68I6/view?usp=sharing)
 
 ## 📖 About the Project
 
@@ -41,15 +31,12 @@ ArtSpace is an Android application developed using Java and XML. It allows users
 - Implicit Intents
 - Activity Lifecycle
 
-## 📱 Application Screenshots
+## 👨‍💻 Developer Information
 
-Screenshots of the application will be displayed here.
-
-## 👨‍💻 Developer
-
-**Mohammed Abdelrazeq**
-
-**id:1320230659**
+- **Student Name:** Mohammed Abdelrazeq
+- **Student ID:** 1320230659
+- **Project Name:** ArtSpace
+- **Platform:** Android
 
 ---
 
