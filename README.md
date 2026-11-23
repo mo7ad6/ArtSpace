@@ -4,9 +4,19 @@
   <strong>Explore the World of Art!</strong>
 </p>
 
+
 ## 🎬 Project Demo
 
-[▶ Watch ArtSpace Demo Video](https://drive.google.com/file/d/1DOPC2CZ8fXLMGtty6kphLVrqMg4b68I6/view?usp=sharing)
+<p align="center">
+  <iframe
+    src="https://drive.google.com/file/d/1DOPC2CZ8fXLMGtty6kphLVrqMg4b68I6/preview"
+    width="100%"
+    height="480"
+    allow="autoplay"
+    allowfullscreen>
+  </iframe>
+</p>
+
 
 ## 📖 About the Project
 
@@ -39,7 +49,7 @@ Screenshots of the application will be displayed here.
 
 **Mohammed Abdelrazeq**
 
-Android Application Project – ArtSpace
+**id:1320230659**
 
 ---
 
