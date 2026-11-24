@@ -21,6 +21,18 @@ ArtSpace is an Android application developed using Java and XML. It allows users
 - Open websites using Implicit Intents.
 - Preserve the current artwork when rotating the screen.
 
+## 📱 Application Screenshots
+
+![Screenshot 1](screenshots/1.png)
+
+![Screenshot 2](screenshots/2.png)
+
+![Screenshot 3](screenshots/3.png)
+
+![Screenshot 4](screenshots/4.png)
+
+![Screenshot 5](screenshots/5.png)
+
 ## 🛠️ Technologies Used
 
 - Java
@@ -29,7 +41,7 @@ ArtSpace is an Android application developed using Java and XML. It allows users
 - View Binding
 - Explicit Intents
 - Implicit Intents
-- Activity Lifecycle
+  
 
 ## 👨‍💻 Developer Information
 
