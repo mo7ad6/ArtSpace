@@ -6,7 +6,7 @@
 
 ## 🎬 Project Demo
 
-https://github.com/mo7ad6/ArtSpace/issues/2#issue-6585648649
+[▶ Watch ArtSpace Demo Video](https://github.com/mo7ad6/ArtSpace/issues/2#issue-6585648649)
 
 ## 📖 About the Project
 
